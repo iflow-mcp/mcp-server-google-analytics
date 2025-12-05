@@ -1,5 +1,5 @@
 {
-  "name": "mcp-server-google-analytics",
+  "name": "@iflow-mcp/mcp-server-google-analytics",
   "version": "1.1.0",
   "description": "Google Analytics MCP server for accessing web analytics data",
   "main": "dist/index.js",
